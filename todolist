@@ -1,3 +1,8 @@
+// kijken of dit werkt
+
+
+
+
 function displayWordSoFar(word, guesses) {
   // DOEL: displayWordSoFar
   // word = "javascript" guesses = [];
